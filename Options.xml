@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<CELLSIZE>50</CELLSIZE>
+	<PIECESIZE>40</PIECESIZE>
+	<BOARDSTYLE>Classic</BOARDSTYLE>
+	<PIECESTYLE>Wood</PIECESTYLE>
+	<PLAYSOUND>true</PLAYSOUND>
+</config>

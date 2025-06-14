@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TrainingData>
+	<Exercise>
+		<Name>Bài tập mẫu</Name>
+		<FEN>rnbqkbnr/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKBNR w KQkq - 0 1</FEN>
+		<Moves>2</Moves>
+	</Exercise>
+</TrainingData>

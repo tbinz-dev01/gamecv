@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<CELL_SIZE>50</CELL_SIZE>
+	<BOARD_STYLE>Classic</BOARD_STYLE>
+	<PIECE_STYLE>Wood</PIECE_STYLE>
+	<PLAY_SOUND>true</PLAY_SOUND>
+</config>
